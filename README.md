@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail me at : vinayhajare2004@gmail.com 
 - My website : https://bit.ly/vinayhajare 
+- Twitter: https://twitter.com/Vinay_Hajare/
  
 
 <!---
