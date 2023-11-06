@@ -715,7 +715,7 @@ img{
     bottom: 0;
     left: 0;
     background-color: rgba(0, 0, 0, 0.5);
-    display: flex;
+    display: grid;
     align-items: center;
     justify-self: center;
     padding: 0 1rem;
@@ -1294,6 +1294,8 @@ img{
     }
 
     .services-modal-content{
+        justify-self: center;
+        align-self: center;
         width: 450px;
     }
 
