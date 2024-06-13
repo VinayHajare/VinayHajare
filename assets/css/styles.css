@@ -761,9 +761,9 @@ img{
 }
 
 .active-modal{
+    justify-self: stretch;
     opacity: 1;
     visibility: visible;
-    justify-self: stretch;
 }
 
  /* Portfolio */
