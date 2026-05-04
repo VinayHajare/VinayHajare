@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tBpJ0Zk1H2LOP1luGCTk">
-    <mxGraphModel>
+    <mxGraphModel dx="1144" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3600" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-13" edge="1" parent="1" source="zg4vrTPM7ps__JGs6ES3-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" target="zg4vrTPM7ps__JGs6ES3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;REST Client&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-14" edge="1" parent="1" source="zg4vrTPM7ps__JGs6ES3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="zg4vrTPM7ps__JGs6ES3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;KeyController&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="200" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-15" edge="1" parent="1" source="zg4vrTPM7ps__JGs6ES3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="zg4vrTPM7ps__JGs6ES3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;KeyService&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="200" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SnowflakeProvider&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="480" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="240" width="210" x="707" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;ThreadPool&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="752" y="296" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Queue Buffer&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="752" y="386" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;SnowflakeGenerator&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="782" y="246" as="geometry" />
+        </mxCell>
+        <mxCell id="zg4vrTPM7ps__JGs6ES3-17" edge="1" parent="1" source="zg4vrTPM7ps__JGs6ES3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;dashPattern=8 8;strokeWidth=2;" target="zg4vrTPM7ps__JGs6ES3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
